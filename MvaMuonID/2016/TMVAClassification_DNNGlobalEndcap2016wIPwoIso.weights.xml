@@ -19,7 +19,7 @@
     <Option name="CreateMVAPdfs" modified="No">False</Option>
     <Option name="IgnoreNegWeightsInTraining" modified="No">False</Option>
     <Option name="FilenameModel" modified="Yes">modelEndcap16wIPwoIso.h5</Option>
-    <Option name="FilenameTrainedModel" modified="No">/lustre/cmswork/abragagn/weights/2016/kerasModels/TrainedModel_DNNGlobalEndcap2016wIPwoIso.h5</Option>
+    <Option name="FilenameTrainedModel" modified="No">/lustre/cmswork/abragagn/mvaWeights/MvaMuonID/2016/kerasModels/TrainedModel_DNNGlobalEndcap2016wIPwoIso.h5</Option>
     <Option name="BatchSize" modified="Yes">512</Option>
     <Option name="NumEpochs" modified="Yes">1000</Option>
     <Option name="Verbose" modified="No">1</Option>
