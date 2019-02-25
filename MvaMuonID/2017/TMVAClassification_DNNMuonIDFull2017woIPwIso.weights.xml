@@ -27,9 +27,11 @@
     <Option name="SaveBestOnly" modified="No">True</Option>
     <Option name="TriesEarlyStopping" modified="Yes">20</Option>
     <Option name="LearningRateSchedule" modified="No"/>
+     <!--
     <Option name="TensorBoard" modified="Yes">./logs</Option>
     <Option name="TensorBoard" modified="No">./logs</Option>
     <Option name="ValidationSize" modified="Yes">30%</Option>
+    -->
   </Options>
   <Variables NVar="25">
     <Variable VarIndex="0" Expression="muoPt" Label="muoPt" Title="muoPt" Unit="" Internal="muoPt" Type="F" Min="2.00000429e+00" Max="2.42829453e+02"/>
