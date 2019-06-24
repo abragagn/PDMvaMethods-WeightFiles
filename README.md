@@ -1,2 +1,1 @@
-# PDSoftMuonMvaEstimator-Weights
 # PDMvaMethods-WeightFiles
